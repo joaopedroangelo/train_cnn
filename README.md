@@ -15,6 +15,10 @@ Os modelos foram treinados em dois datasets diferentes, com diferentes propósit
 
 > Os datasets são mantidos em `.zip` no repositório. O conteúdo extraído deve ser colocado na pasta `dataset/` correspondente.
 
+> Baixe o .zip do HAM10000 em: [Link](https://drive.google.com/file/d/1Xr1WvkOyxuigPX8eEwl6XUdF0hZvIsKs/view?usp=sharing)
+
+> No link acima, você encontra o dataset já separado nas devidas classes e pronto pro treinamento.
+
 ---
 ## Instalação
 
